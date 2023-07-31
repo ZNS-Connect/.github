@@ -1,12 +1,5 @@
-## Hi there 👋
+## What is ZNS?
 
-<!--
+ZNS Connect Name Service (ZNS) is a decentralized naming system built on the Zetachain blockchain. It provides a user-friendly and memorable way to identify and interact with participants within the web3 ecosystem. With ZNS, users can replace complex and lengthy blockchain addresses with human-readable names, making it easier to send and receive transactions, interact with decentralized applications (dApps), and establish online identities.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+The ZNS Connect Name Service (ZNS) is a revolutionary naming system built on the Zetachain blockchain. It provides users with the ability to register and manage human-readable names as identifiers for their blockchain addresses, simplifying the user experience and enhancing accessibility within the decentralized ecosystem. With its core components such as domain registration, resolution, and ERC721 integration, ZNS offers a secure, scalable, and interoperable solution for decentralized web identity, simplified addressing, branding, NFT verification, and integration with social platforms. The ZNS token (ZNT) plays a crucial role in the ecosystem, facilitating transactions, governance, and incentivizing participation.
