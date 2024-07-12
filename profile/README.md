@@ -46,7 +46,7 @@ ZNS Connect's strategic business model, revenue sharing, domain giveaways, and c
 3. **ACCESS BY CONNECTING TRUE ZNS:** Streamline user interactions with decentralized exchanges (DEXs), wallets, and applications by leveraging ZNS domain names
 
 ## Useful Links
-- **Landing Page**: [ZNS Connect](https://znsconnect.io/)
+- **Landing Page**:(https://znsconnect.io/)
 - **Application**: [ZNS Connect App](https://v3.znsconnect.io)
 - **All Documentation**: [ZNS Connect Docs](https://docs.znsconnect.io/)
 - **Pitch Deck**: [Pitch Deck](https://docsend.com/view/eaheupi7s8xrrx9d)
