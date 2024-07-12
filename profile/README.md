@@ -1,3 +1,5 @@
+Here's the updated text with proper links and formatting:
+
 ```markdown
 # About ZNS Connect
 
@@ -13,20 +15,15 @@ Enjoy personalized Web3 pages, enhanced security with alphanumeric wallet addres
 The core problem with domain names lies in their limited practicality, often lacking significant utility: 
 
 1. Domains designed for one-time use are on the rise. 
-
 2. Unutilized domain registrations have dropped to their lowest point since 2022. 
-
 3. Social networks rely on centralized solutions. 
-
 4. Users face security risks when utilizing domains on blockchain explorers.
 
 ## Solution
 Enjoy personalized Web3 pages, enhanced security with alphanumeric wallet addresses, and seamless access to DEXs, wallets, and apps using ZNS domain names
 
 1. **WEB3 PAGE:** Provide users with personalized Web3 pages for daily engagement, including sharing info, adding social networks, and connecting with others.
-
 2. **NUMERIC TO ALPHABETIC:** Improve security with alphanumeric wallet addresses across chains and transition from numeric to alphanumeric addresses for better safety and usability.
-
 3. **APP CONNECTION:** Simplify access to DEXs, wallets, and apps using ZNS domain names, facilitating seamless interactions for users, all by connecting true ZNS Domains.
 
 ## Product
@@ -40,15 +37,13 @@ ZNS Connect's strategic business model, revenue sharing, domain giveaways, and c
 ## Benefits for Users
 
 1. **WEB3 PAGE:** Personalized Web3 pages empower users for daily engagement, sharing info, adding social networks, and connecting easily.
-
 2. **NUMERIC TO ALPHABETIC:** Improve security with alphanumeric wallet addresses across chains and transition from numeric to alphanumeric addresses for better safety and usability.
-
-3. **ACCESS BY CONNECTING TRUE ZNS:** Streamline user interactions with decentralized exchanges (DEXs), wallets, and applications by leveraging ZNS domain names
+3. **ACCESS BY CONNECTING TRUE ZNS:** Streamline user interactions with decentralized exchanges (DEXs), wallets, and applications by leveraging ZNS domain names.
 
 ## Useful Links
-- **Landing Page**: [ZNS Connect](https://znsconnect.io/)
-- **Application**: [ZNS Connect App](https://v3.znsconnect.io)
-- **All Documentation**: [ZNS Connect Docs](https://docs.znsconnect.io/)
-- **Pitch Deck**: [Pitch Deck](https://docsend.com/view/eaheupi7s8xrrx9d)
-- **DappRadar Onchain Tractions**: [DappRadar](https://dappradar.com/dapp/zns-connect)
+- **[Landing Page](https://znsconnect.io/)**
+- **[Application](https://v3.znsconnect.io)**
+- **[All Documentation](https://docs.znsconnect.io/)**
+- **[Pitch Deck](https://docsend.com/view/eaheupi7s8xrrx9d)**
+- **[DappRadar Onchain Tractions](https://dappradar.com/dapp/zns-connect)**
 ```
