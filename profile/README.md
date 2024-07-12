@@ -1,7 +1,7 @@
 ```markdown
 # About ZNS Connect
 
-**ZNS Connect** is a decentralized naming system designed to simplify **Web3** by offering user-friendly and memorable domain names. Our platform enhances digital identities and smooth transactions across multiple blockchains.
+**ZNSConnect** is a decentralized naming system designed to simplify **Web3** by offering user-friendly and memorable domain names. Our platform enhances digital identities and smooth transactions across multiple blockchains.
 
 **ZNS Connect** is a decentralized naming system designed to revolutionize the Web3 experience by replacing complex addresses with user-friendly and memorable domain names. ZNS Connect aims to streamline interactions within the blockchain ecosystem, providing a seamless experience for users.
 
