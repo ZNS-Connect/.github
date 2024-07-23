@@ -1,4 +1,3 @@
-```markdown
 # About ZNS Connect
 
 ZNS Connect is a decentralized naming system designed to simplify **Web3** by offering user-friendly and memorable domain names. Our platform enhances digital identities and smooth transactions across multiple blockchains.
@@ -51,4 +50,3 @@ Goals: Increase user base by 50% in six months, Double revenue through partnersh
 - All Documentation:https://docs.znsconnect.io
 - Pitch Deck: https://docsend.com/view/eaheupi7s8xrrx9d
 - DappRadar Onchain Tractions: https://dappradar.com/dapp/zns-connect
-```
