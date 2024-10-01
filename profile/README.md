@@ -46,7 +46,7 @@ Goals: Increase user base by 50% in six months, Double revenue through partnersh
 
 ## Useful Links
 - Landing Page:https://znsconnect.io
-- Application: https://v3.znsconnect.io
+- Application: https://zns.bio
 - All Documentation:https://docs.znsconnect.io
 - Pitch Deck: https://docsend.com/view/eaheupi7s8xrrx9d
 - DappRadar Onchain Tractions: https://dappradar.com/dapp/zns-connect
