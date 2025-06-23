@@ -50,3 +50,5 @@ Goals: Increase user base by 50% in six months, Double revenue through partnersh
 - All Documentation:https://docs.znsconnect.io
 - Pitch Deck: https://docsend.com/view/eaheupi7s8xrrx9d
 - DappRadar Onchain Tractions: https://dappradar.com/dapp/zns-connect
+ 
+<p>© 2025 ZNS Connect — a product of AltBridge Labs S.A. All rights reserved.</p>
